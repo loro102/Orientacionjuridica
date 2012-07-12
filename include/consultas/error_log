@@ -1,0 +1,5 @@
+[07-Jul-2012 09:37:29] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/u731166316/public_html/include/consultas/resultado_cliente.php on line 133
+[07-Jul-2012 10:06:23] PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in /home/u731166316/public_html/include/consultas/resultado_cliente.php on line 147
+[07-Jul-2012 10:06:38] PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in /home/u731166316/public_html/include/consultas/resultado_cliente.php on line 147
+[07-Jul-2012 10:30:36] PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in /home/u731166316/public_html/include/consultas/resultado_cliente.php on line 147
+[07-Jul-2012 11:02:16] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/u731166316/public_html/include/consultas/resultado_cliente.php on line 203

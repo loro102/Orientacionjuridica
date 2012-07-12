@@ -1,0 +1,5 @@
+Options -Indexes
+RewriteEngine On
+RewriteBase /calendar/
+RewriteRule ^render$ main.php [L]
+RewriteRule ^verifyemail/$ index.php [L]

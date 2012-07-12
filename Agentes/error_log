@@ -1,0 +1,17 @@
+[11-Jul-2012 09:33:55] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/u731166316/public_html/Agentes/Agentesphp.php on line 104
+[11-Jul-2012 09:36:02] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/u731166316/public_html/Agentes/Agentesphp.php on line 104
+[11-Jul-2012 10:33:30] PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in /home/u731166316/public_html/Agentes/Profesionales.php on line 100
+[12-Jul-2012 06:03:04] PHP Parse error:  syntax error, unexpected ')', expecting T_STRING or T_VARIABLE or '$' in /home/u731166316/public_html/Agentes/cliente.php on line 110
+[12-Jul-2012 06:04:50] PHP Parse error:  syntax error, unexpected ')', expecting T_STRING or T_VARIABLE or '$' in /home/u731166316/public_html/Agentes/cliente.php on line 110
+[12-Jul-2012 06:04:54] PHP Parse error:  syntax error, unexpected ')', expecting T_STRING or T_VARIABLE or '$' in /home/u731166316/public_html/Agentes/cliente.php on line 110
+[12-Jul-2012 06:21:39] PHP Fatal error:  Cannot redeclare obtenerprovincia() (previously declared in /home/u731166316/public_html/Agentes/cliente.php:17) in /home/u731166316/public_html/Connections/funciones.php on line 409
+[12-Jul-2012 06:22:55] PHP Fatal error:  Cannot redeclare obtenerprovincia() (previously declared in /home/u731166316/public_html/Agentes/cliente.php:17) in /home/u731166316/public_html/Connections/funciones.php on line 409
+[12-Jul-2012 06:26:23] PHP Parse error:  syntax error, unexpected ')', expecting T_STRING or T_VARIABLE or '$' in /home/u731166316/public_html/Agentes/cliente.php on line 116
+[12-Jul-2012 06:26:30] PHP Parse error:  syntax error, unexpected ')', expecting T_STRING or T_VARIABLE or '$' in /home/u731166316/public_html/Agentes/cliente.php on line 116
+[12-Jul-2012 06:26:34] PHP Parse error:  syntax error, unexpected ')', expecting T_STRING or T_VARIABLE or '$' in /home/u731166316/public_html/Agentes/cliente.php on line 116
+[12-Jul-2012 06:32:52] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/u731166316/public_html/Agentes/cliente.php on line 97
+[12-Jul-2012 06:33:04] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/u731166316/public_html/Agentes/cliente.php on line 97
+[12-Jul-2012 06:33:04] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/u731166316/public_html/Agentes/cliente.php on line 97
+[12-Jul-2012 06:33:12] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/u731166316/public_html/Agentes/cliente.php on line 97
+[12-Jul-2012 06:33:57] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/u731166316/public_html/Agentes/cliente.php on line 100
+[12-Jul-2012 18:32:07] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/u731166316/public_html/Agentes/Nuevoagente.php on line 321

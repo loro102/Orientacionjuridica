@@ -1,0 +1,10 @@
+Options FollowSymLinks
+
+RewriteEngine On
+RewriteBase /calendar/share/
+RewriteRule ^(.*)/(.*).xml xml.php?uid=$1&id=$2
+RewriteRule ^(.*)/(.*).ics ical.php?uid=$1&id=$2
+RewriteRule ^(.*)/(.*).html html.php?uid=$1&id=$2
+
+RewriteCond %{REQUEST_METHOD} !^(PUT|GET)
+RewriteRule ^(.*)$ ical_put.php?uid=$1 [L]

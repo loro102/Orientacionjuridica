@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Styles for jQuery Datepicker */
+
+/* Solid fill - no background image */
+.ui-no-gradient-content .ui-widget-content, 
+.ui-no-gradient-content .ui-widget-content .ui-state-default, 
+.ui-no-gradient-content .ui-widget-content .ui-state-active, 
+.ui-no-gradient-content .ui-widget-content .ui-state-highlight, 
+.ui-no-gradient-content .ui-widget-content .ui-state-hover,
+.ui-no-gradient-header .ui-widget-header
+{ 
+	background-image: none;
+	background-position : 0px 0px;
+}
+
+/* Glass Gradient Transparent background semi opaque white center to give it a glass look */
+.ui-glass-gradient .ui-widget-content .ui-state-default,
+.ui-glass-gradient-header .ui-widget-header {
+	background-image: url(images/ui-bg_glass_transparent_1x400.png);
+	background-repeat: repeat-x;
+	background-position: 50% 50%;
+}
+
+/* This is Light Top to Bottom Gradient */
+.ui-TopToBottom-gradient-content .ui-widget-content,
+.ui-TopToBottom-gradient-content .ui-widget-content .ui-state-default,
+.ui-TopToBottom-gradient-content .ui-widget-content .ui-state-active,
+.ui-TopToBottom-gradient-content .ui-widget-content .ui-state-highlight,
+.ui-TopToBottom-gradient-content .ui-widget-content .ui-state-hover,
+.ui-TopToBottom-gradient-header .ui-widget-header
+{ 
+	background : url(images/TopToBottomGradient.png);
+	background-repeat: repeat-x;
+	background-position: 0px 0px;
+}
+
+/* This is Dark Top to Bottom Gradient */
+.ui-50TopTo0Bottom-gradient-content .ui-widget-content,
+.ui-50TopTo0Bottom-gradient-content .ui-widget-content .ui-state-default,
+.ui-50TopTo0Bottom-gradient-header .ui-widget-header
+{ 	background-image : url(images/50TopTo0BottomGradient.png);
+	background-repeat: repeat-x;
+	background-position : 0px 0px; 
+}
+
+/* This is Medium Top to Bottom Gradient */
+.ui-80TopTo0Bottom-gradient-content .ui-widget-content,
+.ui-80TopTo0Bottom-gradient-content .ui-widget-content .ui-state-default,
+.ui-80TopTo0Bottom-gradient-header .ui-widget-header
+{ 	background-image : url(images/80TopTo0BottomGradient.png);
+ 	background-repeat: repeat-x;
+ 	background-position : 0px 0px; 
+}

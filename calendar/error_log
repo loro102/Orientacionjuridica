@@ -1,0 +1,4 @@
+[15-Jun-2012 15:23:59] PHP Fatal error:  Access denied for user 'root'@'localhost' (using password: NO) in /home/u731166316/public_html/calendar/component/mysql_module.php on line 28
+[19-Jun-2012 18:13:41] PHP Fatal error:  Access denied for user 'root'@'localhost' (using password: NO) in /home/u731166316/public_html/calendar/component/mysql_module.php on line 28
+[19-Jun-2012 18:13:52] PHP Fatal error:  Access denied for user 'root'@'localhost' (using password: NO) in /home/u731166316/public_html/calendar/component/mysql_module.php on line 28
+[20-Jun-2012 12:19:48] PHP Fatal error:  Access denied for user 'root'@'localhost' (using password: NO) in /home/u731166316/public_html/calendar/component/mysql_module.php on line 28

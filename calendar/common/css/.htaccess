@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteBase /calendar/common/css/
+RewriteRule ^style-(.*).css css_event.php?q=$1

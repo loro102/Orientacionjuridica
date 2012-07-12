@@ -1,0 +1,47 @@
+Skin: dhx_skyblue
+
+======== JS CODE =========
+./dhtmlxcommon.js
+../dhtmlxGrid/codebase/dhtmlxgrid.js
+../dhtmlxGrid/codebase/dhtmlxgridcell.js
+../dhtmlxGrid/codebase/ext/dhtmlxgrid_filter.js
+../dhtmlxGrid/codebase/ext/dhtmlxgrid_drag.js
+../dhtmlxGrid/codebase/ext/dhtmlxgrid_nxml.js
+../dhtmlxGrid/codebase/ext/dhtmlxgrid_selection.js
+../dhtmlxGrid/codebase/ext/dhtmlxgrid_srnd.js
+../dhtmlxGrid/codebase/ext/dhtmlxgrid_start.js
+../dhtmlxGrid/codebase/excells/dhtmlxgrid_excell_dhxcalendar.js
+../dhtmlxGrid/codebase/excells/dhtmlxgrid_excell_cntr.js
+../dhtmlxGrid/codebase/excells/dhtmlxgrid_excell_link.js
+../dhtmlxLayout/codebase/dhtmlxlayout.js
+../dhtmlxMenu/codebase/dhtmlxmenu.js
+../dhtmlxMenu/codebase/ext/dhtmlxmenu_ext.js
+../dhtmlxToolbar/codebase/dhtmlxtoolbar.js
+../dhtmlxWindows/codebase/dhtmlxwindows.js
+./dhtmlxcontainer.js
+../dhtmlxDataProcessor/codebase/dhtmlxdataprocessor.js
+../dhtmlxCalendar/codebase/dhtmlxcalendar.js
+../dhtmlxCombo/codebase/dhtmlxcombo.js
+../dhtmlxCombo/codebase/ext/dhtmlxcombo_extra.js
+../dhtmlxCombo/codebase/ext/dhtmlxcombo_whp.js
+../dhtmlxCombo/codebase/ext/dhtmlxcombo_group.js
+../dhtmlxTabbar/codebase/dhtmlxtabbar.js
+../dhtmlxTabbar/codebase/dhtmlxtabbar_start.js
+../dhtmlxAccordion/codebase/dhtmlxaccordion.js
+../dhtmlxEditor/codebase/dhtmlxeditor.js
+
+======== CSS CODE ========
+../dhtmlxGrid/codebase/dhtmlxgrid.css
+../dhtmlxLayout/codebase/dhtmlxlayout.css
+../dhtmlxWindows/codebase/dhtmlxwindows.css
+../dhtmlxCalendar/codebase/dhtmlxcalendar.css
+../dhtmlxCombo/codebase/dhtmlxcombo.css
+../dhtmlxTabbar/codebase/dhtmlxtabbar.css
+../dhtmlxGrid/codebase/skins/dhtmlxgrid_dhx_skyblue.css
+../dhtmlxLayout/codebase/skins/dhtmlxlayout_dhx_skyblue.css
+../dhtmlxMenu/codebase/skins/dhtmlxmenu_dhx_skyblue.css
+../dhtmlxToolbar/codebase/skins/dhtmlxtoolbar_dhx_skyblue.css
+../dhtmlxWindows/codebase/skins/dhtmlxwindows_dhx_skyblue.css
+../dhtmlxCalendar/codebase/skins/dhtmlxcalendar_dhx_skyblue.css
+../dhtmlxAccordion/codebase/skins/dhtmlxaccordion_dhx_skyblue.css
+../dhtmlxEditor/codebase/skins/dhtmlxeditor_dhx_skyblue.css

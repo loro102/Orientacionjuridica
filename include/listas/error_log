@@ -1,0 +1,7 @@
+[20-Jun-2012 07:41:16] PHP Parse error:  syntax error, unexpected ';' in /home/u731166316/public_html/include/listas/Mailing_profesionales.php on line 53
+[02-Jul-2012 11:42:58] PHP Parse error:  syntax error, unexpected ';' in /home/u731166316/public_html/include/listas/Mailing_profesionales.php on line 53
+[02-Jul-2012 11:43:02] PHP Parse error:  syntax error, unexpected ';' in /home/u731166316/public_html/include/listas/Mailing_profesionales.php on line 53
+[02-Jul-2012 11:43:37] PHP Parse error:  syntax error, unexpected ';' in /home/u731166316/public_html/include/listas/Mailing_profesionales.php on line 53
+[10-Jul-2012 07:30:22] PHP Parse error:  syntax error, unexpected ';' in /home/u731166316/public_html/include/listas/Mailing_agentes.php on line 91
+[11-Jul-2012 06:34:53] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/u731166316/public_html/include/listas/lugares.php on line 228
+[12-Jul-2012 18:31:56] PHP Parse error:  syntax error, unexpected ';' in /home/u731166316/public_html/include/listas/Mailing_agentes.php on line 91

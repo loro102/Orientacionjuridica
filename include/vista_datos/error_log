@@ -1,0 +1,16 @@
+[02-Jul-2012 12:12:17] PHP Warning:  include(../Connections/OJ.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/u731166316/public_html/include/vista_datos/notas_expediente.php on line 1
+[02-Jul-2012 12:12:17] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../Connections/OJ.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/u731166316/public_html/include/vista_datos/notas_expediente.php on line 1
+[02-Jul-2012 12:12:55] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/Connections/OJ.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/u731166316/public_html/include/vista_datos/notas_expediente.php on line 1
+[02-Jul-2012 12:28:58] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Unknown MySQL server host 'mysql.maxevolution.tk' (1) in /home/u731166316/public_html/Connections/OJ.php on line 14
+[02-Jul-2012 12:28:58] PHP Fatal error:  Unknown MySQL server host 'mysql.maxevolution.tk' (1) in /home/u731166316/public_html/Connections/OJ.php on line 14
+[04-Jul-2012 09:08:40] PHP Fatal error:  Can't use function return value in write context in /home/u731166316/public_html/include/vista_datos/datos_sanitarios.php on line 96
+[04-Jul-2012 09:11:15] PHP Fatal error:  Can't use function return value in write context in /home/u731166316/public_html/include/vista_datos/datos_sanitarios.php on line 96
+[04-Jul-2012 09:16:12] PHP Warning:  mysql_free_result(): 13 is not a valid MySQL result resource in /home/u731166316/public_html/include/vista_datos/datos_sanitarios.php on line 244
+[04-Jul-2012 09:16:12] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/u731166316/public_html/include/vista_datos/datos_sanitarios.php on line 246
+[04-Jul-2012 09:18:21] PHP Fatal error:  Can't use function return value in write context in /home/u731166316/public_html/include/vista_datos/datos_sanitarios.php on line 85
+[04-Jul-2012 09:31:08] PHP Parse error:  syntax error, unexpected ')', expecting T_STRING or T_VARIABLE or '$' in /home/u731166316/public_html/include/vista_datos/datos_sanitarios.php on line 106
+[04-Jul-2012 09:41:40] PHP Fatal error:  Cannot redeclare obtenernombrefiscalprofesional() (previously declared in /home/u731166316/public_html/Connections/funciones.php:243) in /home/u731166316/public_html/Connections/funciones.php on line 331
+[04-Jul-2012 09:41:56] PHP Fatal error:  Cannot redeclare obtenernombrefiscalprofesional() (previously declared in /home/u731166316/public_html/Connections/funciones.php:243) in /home/u731166316/public_html/Connections/funciones.php on line 331
+[04-Jul-2012 10:14:19] PHP Fatal error:  Call to undefined function  formatoinsertfecha() in /home/u731166316/public_html/include/vista_datos/datos_sanitarios.php on line 320
+[04-Jul-2012 10:23:31] PHP Parse error:  syntax error, unexpected ')', expecting T_STRING or T_VARIABLE or '$' in /home/u731166316/public_html/include/vista_datos/datos_sanitarios.php on line 114
+[04-Jul-2012 10:30:54] PHP Parse error:  syntax error, unexpected ')', expecting T_STRING or T_VARIABLE or '$' in /home/u731166316/public_html/include/vista_datos/datos_sanitarios.php on line 110
